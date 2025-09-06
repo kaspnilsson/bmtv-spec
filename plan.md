@@ -52,6 +52,88 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 ### Fixed vs Collapsible TV Structure
 **Decision:** **TBD** - Need to research if permanent structure meets road legal requirements vs collapsible structure that deploys for events.
 
+### Screen Location Alternatives
+
+#### Option A: Screen at Truck Bed (SELECTED)
+**Concept:** Projection screen integrated with tailgate/truck bed, audience views from behind truck.
+**Pros:** Natural integration with truck bed, projector protected in bed, clear audience positioning
+**Cons:** Fixed throw distance (~8ft), audience must be behind truck (exhaust/heat)
+
+#### Option B: Screen at Front of TV Structure  
+**Concept:** Screen at front of cantilever structure, projector in middle of stage.
+**Pros:** Flexible projector distance, audience can be at sides, more "TV-like" appearance
+**Cons:** Projector exposed to elements, complex screen mechanism, projector blocks performer space
+**Decision:** **REJECTED** - Projector exposure and reduced stage space
+
+### Base Vehicle Alternatives
+
+#### Heavy Duty Trucks (SELECTED)
+**Options:** F350/Ram 3500/Silverado 3500 Dually
+**Pros:** High payload capacity, existing research, dual rear wheels for stability
+**Cons:** High cost ($50-85k), overkill for some applications
+
+#### Medium Duty Box Trucks
+**Concept:** Ford E-450, Isuzu NPR, or similar commercial chassis
+**Pros:** Lower cost, more interior space, designed for heavy loads, flat loading surface
+**Cons:** Less familiar platform, harder to find used, may not handle cantilever loads as well
+**Decision:** **NEEDS RESEARCH** - Should investigate medium duty options
+
+#### Bus Conversion Platform
+**Concept:** School bus or transit bus chassis as base
+**Pros:** Very long wheelbase (better stability), low cost, huge interior space
+**Cons:** Wide turning radius, harder to modify, less "truck" aesthetic
+**Decision:** **REJECTED** - Poor maneuverability, doesn't fit art car aesthetic
+
+### Power System Architecture
+
+#### Generator + Battery Hybrid (SELECTED FOR RESEARCH)
+**Concept:** Generator charges batteries, batteries run AV equipment
+**Pros:** Quiet operation during performance, power availability when generator off
+**Cons:** Complex system, higher cost, more components to fail
+
+#### Generator Only
+**Concept:** Direct generator power to all systems
+**Pros:** Simpler system, lower cost, proven reliability
+**Cons:** Noise during performance, no power when generator off
+**Decision:** **UNDER CONSIDERATION** - May be acceptable if quiet generator found
+
+#### Battery Only
+**Concept:** Large lithium battery bank, charge via truck alternator + shore power
+**Pros:** Silent operation, simpler system
+**Cons:** Limited runtime, complex charging, very high battery cost
+**Decision:** **REJECTED** - Runtime limitations for multi-day events
+
+### Stage Access Alternatives
+
+#### Access Through Truck Cab (CURRENT ASSUMPTION)
+**Concept:** People enter truck cab normally, then climb through rear cab window or similar to reach stage
+**Pros:** Natural integration, protected access route, no additional structure needed
+**Cons:** Limited access width, single point of entry/exit, safety concerns, ADA non-compliant
+
+#### External Side Stairs/Platforms
+**Concept:** Permanent stairs or platforms on sides of TV structure
+**Pros:** Better emergency egress, easier access for equipment, ADA potential, wider access
+**Cons:** Adds cantilever load and complexity, may interfere with driving clearance, more structural points
+**Decision:** **NEEDS RESEARCH** - May be required for safety/ADA compliance
+
+#### Removable/Deployable Access
+**Concept:** Stairs or ramps that deploy when stopped, retract when driving
+**Pros:** No driving clearance issues, can be optimized for access, lighter when driving
+**Cons:** Violates "drive while deployed" requirement, complexity, setup time
+**Decision:** **REJECTED** - Violates core mobility requirement
+
+#### Rear Access from Truck Bed
+**Concept:** People access stage by climbing up through truck bed area, behind screen
+**Pros:** Uses existing truck bed access, minimal additional structure
+**Cons:** Interferes with projection setup, limited space, poor emergency egress
+**Decision:** **REJECTED** - Conflicts with screen/projection equipment
+
+#### Multiple Access Points
+**Concept:** Combination of cab access + side emergency exits
+**Pros:** Redundant egress, meets safety codes, accommodates different users
+**Cons:** Most complex structurally, highest cost and weight
+**Decision:** **LIKELY REQUIRED** - May be necessary for code compliance
+
 ## Content & Programming
 
 - Silly videos
@@ -170,9 +252,18 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **Emergency evacuation while moving** - people must be able to safely exit moving vehicle
 - **Load limits** - maximum people severely constrained by pure cantilever design
 
+**Entry/Exit & Emergency Egress (CRITICAL):**
+- **Primary access route** - through cab? External stairs? How do people get on/off?
+- **Emergency egress requirements** - minimum number of exits, width requirements?
+- **Emergency egress while moving** - how do people safely exit if truck needs to move quickly?
+- **ADA accessibility** - required accommodations for performers with disabilities?
+- **Entry/exit structural loads** - stairs/ramps add cantilever load and complexity
+- **Entry safety while moving** - can people safely board/exit while vehicle is in motion?
+- **Queue management** - where do people wait to get on? How many at once?
+
 **Fire & Emergency Safety:**
 - **Fire safety plan** and suppression system in enclosed space
-- **Multiple egress routes** - stage area could become trap if only one exit
+- **Stage evacuation routes** - what if primary exit is blocked?
 - **Emergency vehicle access** - can emergency services reach performers?
 - **Structural failure modes** and prevention for cantilever design
 - **First aid station** location and access
