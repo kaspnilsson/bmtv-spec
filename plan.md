@@ -155,6 +155,21 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 **Cons:** Most complex structurally, highest cost and weight
 **Decision:** **LIKELY REQUIRED** - May be necessary for code compliance
 
+### Professional vs DIY Labor
+
+#### Professional Fabrication/Installation (CONSIDERED)
+**Concept:** Hire professional welders, C-7 contractor, structural engineer
+**Pros:** Higher quality, faster completion, professional warranties, code compliance assurance
+**Cons:** Major cost increase ($8,500+ in labor costs), less team learning/ownership
+**Costs:** Mobile welding $4,000, C-7 contractor $1,500, engineering consultation $3,000
+
+#### DIY All Labor (SELECTED)
+**Concept:** Team performs all welding, electrical, and construction work ourselves
+**Pros:** Cost savings ($8,500+), team skill development, higher ownership/satisfaction, aligns with maker philosophy
+**Cons:** Longer timeline, quality risk, learning curve, need to develop welding skills
+**Decision:** **SELECTED** - Significant budget savings, team will do all labor ourselves
+**Requirements:** Team must develop welding capabilities, electrical skills, structural engineering knowledge
+
 ## Content & Programming
 
 - Silly videos
@@ -370,17 +385,15 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - 🚨 **Dynamic amplification** from playa vibration causes static calculations to underestimate loads  
 - 🚨 **Overloaded vehicles repeatedly break down** - transmissions and cooling systems most vulnerable
 
-**Frame Design Requirements:**
+**Frame Design Requirements (ALL LABOR OURSELVES):**
 - **Pure cantilever engineering** with NO ground support legs allowed
 - **Modular superstructure** - core rigid structure + attachable art elements
-- **Professional welding required** - mounting plates welded to main frame rails
+- **Team welding capability required** - mounting plates welded to main frame rails
 - **Conservative load rating** - research shows failures happen when pushing limits
 - **Wind load planning** - anemometer required, retraction protocols for >40 mph winds
 
 **Material Specifications:**
-- ✅ **Weathering steel**: $350/ton + $121-1030/ton fabrication
-- ✅ **Mobile welding**: $22-30/hr Nevada County rates  
-- ✅ **Structural engineering consultation**: $100-200/hr for load calculations
+- ✅ **Weathering steel**: $350/ton (raw material cost only)
 - 🔄 **Frame attachment engineering** - specific mounting plate design needed
 
 ### Safety & Risk Assessment (CRITICAL)
@@ -410,16 +423,16 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **Electrical safety** in dusty environment near truck engine/fuel
 
 ### Budget & Financial Planning ✅ RESEARCH COMPLETE - MAJOR BUDGET INCREASE
-**Detailed cost breakdown from professional research:**
+**Detailed cost breakdown from professional research (ALL LABOR OURSELVES):**
 - ✅ **Vehicle**: $50-85k (confirmed)
 - ✅ **Legal/Registration**: $1,120 (SPCNS fees, inspections, surety bond if needed)  
 - ✅ **AV Equipment**: $15,200 (Hisense projector $3,200 + JBL speakers $2,400 + subwoofers $1,600 + LED strips $1,500 + screen materials $350 + VJ software $1,199 + misc $4,951)
 - ✅ **Power System**: $10,000 (Honda EU7000iS $4,500 + 17.4kWh LiFePO4 $3,000 + NEMA 4X enclosures $800 + inverter/BMS $2,000)
-- ✅ **Construction**: $15,200 (Steel materials $2,200 + fabrication/welding $4,000 + fasteners $500 + Aluminet $200 + paint/finishing $1,000 + C-7 contractor $1,500 + engineering consultation $3,000 + tools $2,800)
+- ✅ **Construction Materials**: $6,700 (Steel materials $2,200 + fasteners $500 + Aluminet $200 + paint/finishing $1,000 + tools $2,800)
 - ✅ **Insurance**: $10,000 annual (Agreed Value policy $3,000 + Event liability $7,000)
 - ✅ **Storage & Logistics**: $2,400 (12 months storage $1,200 + transport $1,200)
 
-**🚨 TOTAL PROJECT COST: $103,920 - $137,920** (major increase from initial $40k estimate)
+**🚨 TOTAL PROJECT COST: $95,420 - $125,420** (removed $8,500 in professional labor)
 **🚨 ANNUAL OPERATING COSTS: $10,000+** (insurance alone)
 
 **Funding strategy:**
