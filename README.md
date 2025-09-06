@@ -1,1 +1,0 @@
-# bmtv-spec
