@@ -14,7 +14,11 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 **Timeline:** On playa by 2027
 
-**Critical Engineering Constraint:** The stage area is a cantilever structure extending forward from the rear axle, creating significant tipping moment. This fundamentally limits stage capacity and requires careful structural engineering.
+**Critical Engineering Constraints:** 
+- The stage area is a cantilever structure extending forward from the rear axle, creating significant tipping moment
+- **Must be driveable while fully deployed** - no ground support legs or external stabilizers allowed
+- All structural loads must be supported entirely by truck frame and suspension
+- This fundamentally limits stage capacity and requires conservative structural engineering
 
 ## Core Philosophy
 
@@ -22,6 +26,31 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - Car should have at least mid-tier art car audio
 - Car should be built to work with or withstand the elements on the playa (waterproofing and dust proofing, wind resistance / usage of porous materials to counteract wind)
 - Make use of collapsible bits, custom fabrication wherever possible
+
+## Alternatives Considered
+
+### Deployable Ground Support Structure
+**Concept:** Use deployable legs/outriggers that extend to the ground when parked, allowing for larger stage capacity and reduced cantilever stress on the truck.
+
+**Pros:**
+- Much higher stage capacity (more people)
+- Reduced structural stress on truck frame
+- More stable platform for performances
+- Could allow for larger/heavier LED structure
+- Lower engineering complexity for the cantilever design
+
+**Cons:**
+- Setup/teardown time required at each location
+- Cannot drive while deployed in "fun mode"
+- Reduces spontaneous mobility during events
+- Additional mechanical systems (deployment mechanisms)
+- Ground conditions on playa may not support outriggers
+- Storage of deployable components during transport
+
+**Decision:** **REJECTED** - Eliminated because core requirement is to drive while fully deployed in performance mode. The mobility and spontaneous movement capability is essential to the art car concept.
+
+### Fixed vs Collapsible TV Structure
+**Decision:** **TBD** - Need to research if permanent structure meets road legal requirements vs collapsible structure that deploys for events.
 
 ## Content & Programming
 
@@ -68,13 +97,15 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **California DMV requirements for modified vehicles?**
 - **Burning Man art car registration process and timeline?**
 - **Insurance requirements and costs for art cars?**
-- **Road legal dimension limits?** (8.5' width standard, height varies by state)
-- **Truck specifications critical for cantilever design:**
-  - **Rear axle weight rating** vs actual rear axle load with structure
-  - **Wheelbase length** - affects tipping moment calculations
-  - **Frame attachment points** - where can cantilever structure safely connect?
-  - **Center of gravity** limits before truck becomes unstable
-- **Required safety equipment** (lights, mirrors, etc.)?
+- **Road legal dimension limits?** (8.5' width standard, height varies by state)  
+- **Drive-while-deployed regulations** - are there special rules for structures on moving vehicles?
+- **Truck specifications critical for pure cantilever design:**
+  - **Rear axle weight rating** vs actual rear axle load with structure + people
+  - **Wheelbase length** - affects tipping moment calculations (longer = more stable)
+  - **Frame attachment points** - where can cantilever structure safely connect to chassis?
+  - **Center of gravity** limits before truck becomes unstable while driving
+  - **Suspension capacity** - can truck suspension handle cantilever moment plus road forces?
+- **Required safety equipment** (lights, mirrors, etc.) for permanent structure
 
 ### Technical Specifications & Design (HIGH PRIORITY)
 **Screen and projection system:**
@@ -105,18 +136,19 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **Mounting system** for LED tubes on frame?
 
 ### Construction & Engineering (HIGH PRIORITY)
-**Critical Weight & Balance Constraints:**
-- **Rear axle weight limits** - how much stage/structure weight can rear axle support?
-- **Center of gravity calculations** - structure extends forward from rear axle
-- **Load distribution** - need front stabilizer legs to prevent truck tipping forward?
-- **Dynamic loads** - people jumping/dancing on stage affects balance
+**Critical Weight & Balance Constraints (DRIVE-WHILE-DEPLOYED):**
+- **Rear axle weight limits** - structure + people must not exceed truck's rear axle rating
+- **Center of gravity calculations** - cantilever load affects truck stability while driving
+- **No external supports allowed** - everything supported by truck frame only
+- **Dynamic loads while moving** - structure must handle driving forces + people on stage
+- **Suspension limitations** - truck suspension must handle cantilever moment while driving
 
 **Frame design:**
-- **Cantilever engineering** - structure extending forward from truck bed anchor point
-- **Forward support system** - ground legs required at front of TV tube?
-- **Connection method** - must anchor to truck frame, not just bed
-- **Stage load rating** - how many people can safely be on stage?
-- **Emergency disassembly** procedures if truck needs to move quickly?
+- **Pure cantilever engineering** - NO ground support legs allowed
+- **Truck frame integration** - must distribute loads properly to chassis
+- **Drive-ready design** - structure must be permanently attached and road-safe
+- **Conservative load rating** - stage capacity severely limited by no-external-support rule
+- **Aerodynamics** - structure must not create dangerous wind loads while driving
 
 **Truck Bed Modifications:**
 - **Tailgate integration** with projection screen mechanism
@@ -130,12 +162,13 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **Cable management** for power and data?
 
 ### Safety & Risk Assessment (CRITICAL)
-**Structural Safety:**
-- **Tip-over prevention** - cantilever structure with people creates tipping moment
-- **Stage collapse scenarios** - what if cantilever frame fails?
-- **Emergency evacuation** from enclosed stage area (only exit through cab area?)
-- **Load limits** - maximum people on stage based on rear axle capacity
-- **Ground support failure** - backup if front stabilizer legs fail?
+**Structural Safety (DRIVE-WHILE-DEPLOYED):**
+- **Driving stability** - truck must remain stable while driving with people on cantilever stage
+- **No backup supports** - if cantilever fails, no ground legs to catch it
+- **Conservative design required** - significant safety margins needed without external supports
+- **Stage collapse scenarios** - catastrophic failure modes without ground supports
+- **Emergency evacuation while moving** - people must be able to safely exit moving vehicle
+- **Load limits** - maximum people severely constrained by pure cantilever design
 
 **Fire & Emergency Safety:**
 - **Fire safety plan** and suppression system in enclosed space
