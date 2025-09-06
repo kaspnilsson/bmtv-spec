@@ -168,68 +168,63 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 ## Project Timeline: Critical Milestones (Q4 2025 - Q3 2027)
 
-### Milestone 1: Team & Research Foundation (Q1 2026)
+### Milestone 1: Foundation Sprint (Q1 2026 - 3 months)
 **Critical Success Factors:**
-- Core team recruited with essential skills (welder, electrician, project manager)
-- Legal/regulatory research completed - know what's legally required
-- Budget finalized and funding committed 
-- Workshop access secured
+- Core team recruited and committed
+- Research completed: legal requirements, basic engineering constraints  
+- Vehicle purchased and basic design approach validated
+- Budget committed and workshop access confirmed
 
-**Go/No-Go Decision Point:** Can we realistically execute this project?
+**Go/No-Go Decision Point:** Do we have the team, truck, and plan to build this?
 
-### Milestone 2: Vehicle Acquired & Design Locked (Q2 2026)  
-**Critical Success Factors:**
-- Base truck purchased and inspected
-- Structural engineering design completed and validated
-- All permits/insurance in place for modifications
-
-**Go/No-Go Decision Point:** Are we confident in the engineering approach?
-
-### Milestone 3: Structure Complete (Q3 2026)
+### Milestone 2: Build Phase 1 - Structure (Q2-Q3 2026 - 6 months)
 **Critical Success Factors:**  
-- Primary cantilever frame built and truck-integrated
+- Primary cantilever frame fabricated and truck-integrated
 - Basic weight/stability testing passed
-- Core safety systems installed
+- Core safety systems (access, emergency egress) installed
+- Permits and legal compliance sorted
 
-**Go/No-Go Decision Point:** Is the fundamental structure sound?
+**Go/No-Go Decision Point:** Is the fundamental structure safe and legal?
 
-### Milestone 4: Systems Integrated (Q4 2026)
+### Milestone 3: Build Phase 2 - Systems (Q4 2026 - 3 months)
 **Critical Success Factors:**
-- Audio, power, LED, and screen systems all functional
-- Drive-while-deployed capability demonstrated
-- Safety systems operational
+- Audio system operational (simplified approach)
+- Basic power system working (focus on reliability over sophistication)
+- Screen mechanism functional
+- LED lighting basic version installed
 
-**Go/No-Go Decision Point:** Do all core systems work together?
+**Go/No-Go Decision Point:** Are core systems working together?
 
-### Milestone 5: Operational Validation (Q1 2027)
+### Milestone 4: Integration & Testing (Q1 2027 - 3 months)
 **Critical Success Factors:**
-- Full systems testing (static and dynamic) passed  
-- Team trained on operation and emergency procedures
-- All major issues identified and resolved
+- Drive-while-deployed capability proven
+- All systems reliable under normal conditions
+- Team trained on operation and safety procedures
+- Documentation and spare parts ready
 
-**Go/No-Go Decision Point:** Is this ready for extended operation?
+**Go/No-Go Decision Point:** Is this ready for desert conditions?
 
-### Milestone 6: Desert Test Event (Q2 2027 - Fourth of Juplaya)
+### Milestone 5: Desert Test & Final Prep (Q2 2027)
 **Critical Success Factors:**
-- Multi-day desert operation successful
-- All systems reliable under real conditions  
-- Team confident in event logistics
+- Fourth of Juplaya test successful OR alternative desert test completed
+- Any critical issues from testing resolved
+- Burning Man logistics finalized
 
-**Final Go/No-Go Decision:** Are we ready for Burning Man?
+**Final Go/No-Go Decision:** Are we confident for Burning Man?
 
-### Milestone 7: Burning Man 2027 (Q3 2027)
+### Milestone 6: Burning Man 2027 (Q3 2027)
 **Success Metrics:**
-- Safe transport to and from playa
-- Reliable operation throughout event
-- Positive participant experience
-- No major safety incidents
+- Safe transport and operation
+- Core functionality working throughout event
+- Team and participants safe and happy
 
-### Key Timeline Principles:
-- **Conservative scheduling** - each milestone has buffer time built in
-- **Clear decision points** - formal go/no-go evaluations prevent sunk cost fallacy
-- **Early risk mitigation** - hardest problems tackled first (structure, legal compliance)
-- **Test event mandatory** - desert validation before main event
-- **Total duration:** 1.75 years starting Q1 2026 with test event buffer
+### Aggressive Timeline Reality Check:
+- **Total duration:** 1.5 years of actual build time
+- **Emphasis on MVP approach** - core functionality over advanced features
+- **Parallel work streams** - research/design while building where possible
+- **Simplified systems** - proven approaches over complex engineering
+- **Risk mitigation:** Desert test is critical with this timeline
+- **Buffer time:** Minimal - requires disciplined scope management
 
 ## Research Completed
 
