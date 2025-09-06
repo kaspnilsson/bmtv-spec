@@ -166,9 +166,9 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - Art cars are cooler if they're interactive. Maybe we could build a big remote that changes channels or something?
 - Other ideas welcome 
 
-## Project Timeline: Critical Milestones (2025-2027)
+## Project Timeline: Critical Milestones (Q4 2025 - Q3 2027)
 
-### Milestone 1: Team & Research Foundation (Q1 2025)
+### Milestone 1: Team & Research Foundation (Q1 2026)
 **Critical Success Factors:**
 - Core team recruited with essential skills (welder, electrician, project manager)
 - Legal/regulatory research completed - know what's legally required
@@ -177,7 +177,7 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 **Go/No-Go Decision Point:** Can we realistically execute this project?
 
-### Milestone 2: Vehicle Acquired & Design Locked (Q2 2025)  
+### Milestone 2: Vehicle Acquired & Design Locked (Q2 2026)  
 **Critical Success Factors:**
 - Base truck purchased and inspected
 - Structural engineering design completed and validated
@@ -185,7 +185,7 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 **Go/No-Go Decision Point:** Are we confident in the engineering approach?
 
-### Milestone 3: Structure Complete (Q3 2025)
+### Milestone 3: Structure Complete (Q3 2026)
 **Critical Success Factors:**  
 - Primary cantilever frame built and truck-integrated
 - Basic weight/stability testing passed
@@ -193,7 +193,7 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 **Go/No-Go Decision Point:** Is the fundamental structure sound?
 
-### Milestone 4: Systems Integrated (Q4 2025)
+### Milestone 4: Systems Integrated (Q4 2026)
 **Critical Success Factors:**
 - Audio, power, LED, and screen systems all functional
 - Drive-while-deployed capability demonstrated
@@ -201,7 +201,7 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 **Go/No-Go Decision Point:** Do all core systems work together?
 
-### Milestone 5: Operational Validation (Q1 2026)
+### Milestone 5: Operational Validation (Q1 2027)
 **Critical Success Factors:**
 - Full systems testing (static and dynamic) passed  
 - Team trained on operation and emergency procedures
@@ -229,7 +229,7 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **Clear decision points** - formal go/no-go evaluations prevent sunk cost fallacy
 - **Early risk mitigation** - hardest problems tackled first (structure, legal compliance)
 - **Test event mandatory** - desert validation before main event
-- **Total duration:** 2.5 years with 6-month buffer before Burning Man
+- **Total duration:** 1.75 years starting Q1 2026 with test event buffer
 
 ## Research Completed
 
