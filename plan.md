@@ -292,6 +292,24 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 *Note: Research priorities reflect "minimal viable product" philosophy - focus on core safety/legal requirements first, nice-to-have features later.*
 
+### 🤔 **STRATEGIC QUESTION: Regulatory Compliance Scope**
+**Open Question:** Do we need full regulatory compliance for a "Burning Man only" vehicle?
+
+**Key Considerations:**
+- **Highway transport required** - CA to NV public roads mandate DOT/DMV compliance
+- **BM requires legal registration** - Mutant Vehicle application needs proof of valid CA registration  
+- **Insurance liability exposure** - 20+ people in cantilever structure creates enormous personal liability
+- **Safety vs cost trade-off** - regulations exist because art cars have killed people
+
+**Compliance Strategies:**
+- **Full Compliance (recommended)**: $104-138k total, legal/insured/safe, minimal project-killing risks
+- **Selective Compliance**: $80-90k?, skip some professional services, higher risk of registration/insurance denial
+- **Minimum Viable Compliance**: TBD - research what's truly mandatory vs. "best practice"
+
+**Decision Impact:** This choice affects timeline, budget, and project risk profile significantly.
+
+**Action Item:** Investigate minimum legally required compliance for BM-only operation.
+
 ### Legal & Regulatory Requirements ✅ RESEARCH COMPLETE → ACTION ITEMS
 - ✅ **DOT regulations**: "Modifier" classification confirmed - no safety systems made inoperative
 - ✅ **California DMV**: SPCNS process detailed - REG 343, REG 5036, CHP/BAR/VSSI inspections required  
