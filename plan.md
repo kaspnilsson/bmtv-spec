@@ -2,11 +2,19 @@
 
 ## Project Overview
 
-Tube TV made with a scaffolding of LED lights. The TV screen can either be up and used as a projection mapping surface or lowered to reveal the stage area inside, complete with epic sound.
+Tube TV art car where the truck bed becomes the TV screen and the truck cab is inside the "tube." The TV structure extends forward from the truck bed to approximately the rear of the cab, creating a performance stage area behind the cab but forward of the rear axle.
+
+**Key Spatial Layout:**
+- **TV Screen**: Truck bed tailgate area (retractable projection screen)  
+- **TV "Tube"**: LED scaffolding extending forward ~8-10 feet to rear cab line
+- **Stage Area**: Between cab and rear axle (weight-limited performance space)
+- **Audience**: Views screen from behind the truck
 
 **Base Vehicle:** F350 dually or similar
 
 **Timeline:** On playa by 2027
+
+**Critical Engineering Constraint:** The stage area is a cantilever structure extending forward from the rear axle, creating significant tipping moment. This fundamentally limits stage capacity and requires careful structural engineering.
 
 ## Core Philosophy
 
@@ -61,16 +69,21 @@ Tube TV made with a scaffolding of LED lights. The TV screen can either be up an
 - **Burning Man art car registration process and timeline?**
 - **Insurance requirements and costs for art cars?**
 - **Road legal dimension limits?** (8.5' width standard, height varies by state)
-- **Weight distribution and axle load limits?**
+- **Truck specifications critical for cantilever design:**
+  - **Rear axle weight rating** vs actual rear axle load with structure
+  - **Wheelbase length** - affects tipping moment calculations
+  - **Frame attachment points** - where can cantilever structure safely connect?
+  - **Center of gravity** limits before truck becomes unstable
 - **Required safety equipment** (lights, mirrors, etc.)?
 
 ### Technical Specifications & Design (HIGH PRIORITY)
 **Screen and projection system:**
-- **Optimal projector throw distance** for truck bed dimensions?
-- **Screen material** that works in daylight vs night?
-- **Weather protection** for projector?
-- **Screen retraction mechanism** - manual vs motorized?
-- **Viewing angle considerations** for different heights?
+- **Projector placement** - must be behind tailgate, distance fixed by truck bed length (~8ft)
+- **Short-throw projector requirements** - specific models that work at 8ft distance
+- **Screen integration with tailgate** - motorized vs manual, storage when driving
+- **Screen material** that works in daylight vs night at fixed 8ft throw distance?
+- **Viewing angle** - audience behind truck, screen angled up or straight back?
+- **Weather protection** for projector mounted in/on truck bed
 
 **Audio system:**
 - **Sound ordinance limits** at Burning Man?
@@ -92,28 +105,45 @@ Tube TV made with a scaffolding of LED lights. The TV screen can either be up an
 - **Mounting system** for LED tubes on frame?
 
 ### Construction & Engineering (HIGH PRIORITY)
+**Critical Weight & Balance Constraints:**
+- **Rear axle weight limits** - how much stage/structure weight can rear axle support?
+- **Center of gravity calculations** - structure extends forward from rear axle
+- **Load distribution** - need front stabilizer legs to prevent truck tipping forward?
+- **Dynamic loads** - people jumping/dancing on stage affects balance
+
 **Frame design:**
-- **Load calculations** for wind resistance on playa?
-- **Connection method** between truck and art car structure?
-- **Collapsible vs permanent attachment?**
-- **Ground support system** - legs, stabilizers?
-- **Emergency disassembly procedures?**
+- **Cantilever engineering** - structure extending forward from truck bed anchor point
+- **Forward support system** - ground legs required at front of TV tube?
+- **Connection method** - must anchor to truck frame, not just bed
+- **Stage load rating** - how many people can safely be on stage?
+- **Emergency disassembly** procedures if truck needs to move quickly?
+
+**Truck Bed Modifications:**
+- **Tailgate integration** with projection screen mechanism
+- **Bed reinforcement** for cantilever load anchor points
+- **Access panels** for equipment storage under stage
 
 **Materials research:**
-- **Steel grade and thickness requirements?**
-- **Fastener specifications** for harsh environment?
+- **Steel grade and thickness** for cantilever beam design
+- **Fastener specifications** for truck frame attachment points  
 - **Paint/coating** for rust prevention?
 - **Cable management** for power and data?
 
 ### Safety & Risk Assessment (CRITICAL)
-- **Fire safety plan** and suppression system?
-- **Emergency exits** from performance area?
-- **Electrical safety** in dusty environment?
-- **Structural failure modes** and prevention?
-- **First aid station** location and access?
-- **Capacity limits** - how many people safely?
-- **Fall protection** for elevated areas?
-- **Guy-wire or stabilization** requirements?
+**Structural Safety:**
+- **Tip-over prevention** - cantilever structure with people creates tipping moment
+- **Stage collapse scenarios** - what if cantilever frame fails?
+- **Emergency evacuation** from enclosed stage area (only exit through cab area?)
+- **Load limits** - maximum people on stage based on rear axle capacity
+- **Ground support failure** - backup if front stabilizer legs fail?
+
+**Fire & Emergency Safety:**
+- **Fire safety plan** and suppression system in enclosed space
+- **Multiple egress routes** - stage area could become trap if only one exit
+- **Emergency vehicle access** - can emergency services reach performers?
+- **Structural failure modes** and prevention for cantilever design
+- **First aid station** location and access
+- **Electrical safety** in dusty environment near truck engine/fuel
 
 ### Budget & Financial Planning (HIGH PRIORITY)
 **Detailed cost breakdown needed:**
