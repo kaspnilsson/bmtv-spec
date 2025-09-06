@@ -87,9 +87,14 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 ### Power System Architecture
 
 #### Generator + Battery Hybrid (SELECTED FOR RESEARCH)
-**Concept:** Generator charges batteries, batteries run AV equipment
-**Pros:** Quiet operation during performance, power availability when generator off
-**Cons:** Complex system, higher cost, more components to fail
+**Concept:** Batteries handle base load and power spikes, generator provides steady charging, solar at camp for extended charging
+**Pros:** 
+- **Peak load management**: Batteries handle high-power audio spikes, avoiding oversized generator
+- **Smaller generator**: Can use efficient mid-size generator instead of massive unit for peaks
+- **Solar integration**: Can charge from solar at camp for extended operation
+- **Quiet operation**: Generator can run at steady optimal RPM, batteries provide silent peaks
+- **Power availability**: System works when generator off
+**Cons:** Complex system, higher cost, more components to fail, requires camp solar setup
 
 #### Generator Only
 **Concept:** Direct generator power to all systems
@@ -204,12 +209,18 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **Speaker weatherproofing** and dust protection?
 - **Audio mixing capabilities** - DJ booth location?
 
-**Power system:**
-- **Total power consumption calculation?**
-- **Generator vs battery vs hybrid approach?**
-- **Runtime requirements** (how many hours per day)?
-- **Noise restrictions** for generator use?
-- **Backup power options?**
+**Power system (Peak Load Management):**
+- **Peak vs base load analysis** - audio spikes vs steady LED/projection power
+- **Battery capacity** for handling audio peaks + base load duration
+- **Generator sizing** - steady charging rate vs peak power requirements
+- **Solar integration** - camp-based charging capacity and logistics
+- **Power consumption breakdown**:
+  - Audio system peak loads (amplifiers during bass drops, etc.)
+  - LED lighting constant draw
+  - Projector steady power
+  - Control systems and charging
+- **Runtime requirements** (hours per day) and charging cycles
+- **Noise restrictions** for generator use at different times
 
 **LED lighting system:**
 - **LED tube specifications** (pixel density, weatherproofing)?
@@ -272,7 +283,8 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 ### Budget & Financial Planning (HIGH PRIORITY)
 **Detailed cost breakdown needed:**
 - ✅ Vehicle: $50-85k (researched)
-- ❓ AV equipment: projector ($2-10k?), sound system ($5-15k?), power ($3-8k?)
+- ❓ AV equipment: projector ($2-10k?), sound system ($5-15k?)
+- ❓ Power system: batteries ($3-8k?), generator ($2-5k?), solar panels + camp setup ($2-5k?)
 - ❓ LED lighting system ($3-10k?)
 - ❓ Tools and equipment rental/purchase ($2-5k?)
 - ❓ Labor costs if hiring welders/fabricators?
