@@ -168,14 +168,26 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 ## Project Timeline: Critical Milestones (Q4 2025 - Q3 2027)
 
-### Milestone 1: Foundation Sprint (Q1 2026 - 3 months)
+### ⚠️ TIMELINE CONFLICT IDENTIFIED: SB100 Certificate Requirement
+
+**CRITICAL ISSUE**: Research reveals SB100 smog exemption certificates must be applied for on "first business day of January" - this creates timing pressure for our timeline.
+
+**RESOLUTION OPTIONS:**
+1. **Accelerate to January 2025**: Submit SB100 application January 2025, begin project Q1 2025 (very aggressive)
+2. **Accept 2026 application**: Apply January 2026, build without SB100 and engineer emissions compliance (higher risk/cost)
+3. **Delay to 2028**: Apply January 2027, target BM 2028 (more conservative timeline)
+
+**RECOMMENDATION**: Option 2 - Proceed with 2026 timeline but prepare for potential emissions compliance engineering.
+
+### Milestone 1: Foundation Sprint (Q1 2026 - 3 months) ⚠️ SB100 RISK
 **Critical Success Factors:**
 - Core team recruited and committed
-- Research completed: legal requirements, basic engineering constraints  
-- Vehicle purchased and basic design approach validated
-- Budget committed and workshop access confirmed
+- **SB100 Certificate application submitted** (January 2026 - critical timing)
+- Vehicle purchased and basic design approach validated  
+- Budget committed ($100-150k confirmed by research) and workshop access confirmed
+- **C-7 Low Voltage license obtained** (new requirement)
 
-**Go/No-Go Decision Point:** Do we have the team, truck, and plan to build this?
+**Go/No-Go Decision Point:** Do we have the team, truck, plan, AND legal compliance pathway?
 
 ### Milestone 2: Build Phase 1 - Structure (Q2-Q3 2026 - 6 months)
 **Critical Success Factors:**  
@@ -226,9 +238,17 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **Risk mitigation:** Desert test is critical with this timeline
 - **Buffer time:** Minimal - requires disciplined scope management
 
-## Research Completed
+## Research Completed (Comprehensive Professional Analysis)
 
-### Vehicle Options & Costs
+### Legal & Regulatory Framework ✅
+**CRITICAL FINDING: Must Use "Modifier" Classification**
+- ✅ **Used vehicle strategy validated** - avoids NHTSA "alterer" requirements
+- ✅ **California SPCNS classification confirmed** - triggers multi-agency inspection process
+- 🚨 **NEW: SB100 Certificate MANDATORY** - 500/year, first-come-first-served, application due first business day of January
+- **Documentation Required**: REG 343, REG 5036, REG 256, component receipts, possible surety bond
+- **Inspection Sequence**: CHP VIN → BAR Referee → VSSI Certificate → Final Registration
+
+### Vehicle Options & Costs ✅  
 **Primary Option: Ford F350 Dually**
 - Used 2024 models: $49,999 - $83,450
 - XLT Regular/Crew Cab DRW: $63,000 - $67,000
@@ -236,101 +256,114 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 **Alternative Options:**
 - **Ram 3500 Dually**: Highest payload (7,680 lbs), best interior comfort, 35,100 lb towing
-- **Chevy Silverado 3500HD Dually**: Max payload 7,290 lbs (2WD), similar capabilities to GMC
+- **Chevy Silverado 3500HD Dually**: Max payload 7,290 lbs (2WD), similar capabilities to GMC  
 - **GMC Sierra 3500HD Dually**: Payload increases from 4,185 lbs (SRW) to 5,607 lbs (DRW)
 
 **Budget Estimate: $50,000 - $85,000** for suitable base vehicle
 
-### Material & Construction Costs (Partial)
-**Frame Construction:**
-- **Steel Fabrication**: $6-18/ft for I-beams, $50-150/hr labor, $24-43/sq ft total installed cost
-- **Aluminum Alternative**: 3x lighter but 2-3x more expensive material cost
-- **Recommendation**: Steel for primary structure, aluminum for weight-sensitive components
+### Power System Architecture ✅
+**Hybrid Generator/Battery System Validated**
+- **Detailed power budget completed**: 3600W peak, 13,890 Wh nightly consumption
+- **Battery requirement**: 17.4 kWh capacity (25% margin)
+- **Generator requirement**: ~4.5 kW for 4-hour recharge cycle
+- **Cost estimate**: Honda EU7000iS ($4,500) + 10kWh LiFePO4 banks (~$3,000)
+- ✅ **Silent nighttime operation confirmed as critical for BM sound policy**
 
-**Shade/Covering Materials:**
-- **Aluminet Shade Cloth**: 3-4x more expensive than traditional shade cloth, reduces heat by 30%
-- **Alternative**: Traditional shade cloth or canvas for budget option
+### Materials & Construction Costs ✅
+**Steel vs Alternatives:**
+- **Structural Steel**: $350/ton raw + $121-1,030/ton fabrication
+- **Weathering Steel (Cor-Ten)**: Recommended for desert environment, self-protecting patina
+- **316 Stainless**: $600-3,000/ton, marine-grade corrosion resistance
+- **Mobile Welding**: $22-30/hr (Nevada County area)
 
-**Estimated total construction materials**: $15,000 - $35,000 (rough estimate)
+**Specialized Components:**
+- **Aluminet Shade Cloth**: $0.45-3.28/sq ft depending on finish
+- **NEMA 4X Enclosures**: Mandatory minimum for all electronics (~$200 each)
+- **Professional AV**: Hisense PX3-PRO projector ($3,200), JBL EON715 speakers ($600 each)
+
+### Critical New Requirements 🚨
+**C-7 Low Voltage License**: Required for LED systems >$1,000 project value
+**Insurance**: Specialty "Agreed Value" policies required - $3,000 annual + $7,000 event coverage
+**Burning Man Compliance**: Detailed safety requirements, 5 MPH limit, 36-48" railings, full lighting
+
+**Updated Total Project Estimate: $100,000 - $150,000** (major increase from research findings)
 
 ## Critical Questions & Research Needed
 
 *Note: Research priorities reflect "minimal viable product" philosophy - focus on core safety/legal requirements first, nice-to-have features later.*
 
-### Legal & Regulatory Requirements (HIGH PRIORITY)
-- **DOT regulations for art car modifications?**
-- **California DMV requirements for modified vehicles?**
-- **Burning Man art car registration process and timeline?**
-- **Insurance requirements and costs for art cars?**
-- **Road legal dimension limits?** (8.5' width standard, height varies by state)  
-- **Drive-while-deployed regulations** - are there special rules for structures on moving vehicles?
-- **Truck specifications critical for pure cantilever design:**
+### Legal & Regulatory Requirements ✅ RESEARCH COMPLETE → ACTION ITEMS
+- ✅ **DOT regulations**: "Modifier" classification confirmed - no safety systems made inoperative
+- ✅ **California DMV**: SPCNS process detailed - REG 343, REG 5036, CHP/BAR/VSSI inspections required  
+- ✅ **BM registration**: Mutant Vehicle criteria analyzed - mutation, interactivity, safety, lighting, sound
+- ✅ **Insurance costs**: $3,000 annual + $7,000 event liability (major budget impact)
+- ✅ **Road dimensions**: 8'6" W x 14' H x 40' L (California limiting factor)
+
+**🚨 CRITICAL ACTION ITEMS:**
+- **SB100 Certificate application** - MUST submit first business day January 2026
+- **C-7 Low Voltage License** - obtain for LED system compliance  
+- **SPCNS documentation prep** - compile all component receipts, ownership docs
+- **Specialty insurance quotes** - contact Hagerty/Heacock Classic early in design phase
+
+### Remaining Technical Specifications (HIGH PRIORITY)
+- **Truck specifications for cantilever design:**
   - **Rear axle weight rating** vs actual rear axle load with structure + people
-  - **Wheelbase length** - affects tipping moment calculations (longer = more stable)
+  - **Wheelbase length** - affects tipping moment calculations (longer = more stable)  
   - **Frame attachment points** - where can cantilever structure safely connect to chassis?
   - **Center of gravity** limits before truck becomes unstable while driving
   - **Suspension capacity** - can truck suspension handle cantilever moment plus road forces?
-- **Required safety equipment** (lights, mirrors, etc.) for permanent structure
 
-### Technical Specifications & Design (HIGH PRIORITY)
+### Technical Specifications ✅ RESEARCH COMPLETE → DESIGN PHASE  
 **Screen and projection system:**
-- **Projector placement** - must be behind tailgate, distance fixed by truck bed length (~8ft)
-- **Short-throw projector requirements** - specific models that work at 8ft distance
-- **Screen integration with tailgate** - motorized vs manual, storage when driving
-- **Screen material** that works in daylight vs night at fixed 8ft throw distance?
-- **Viewing angle** - audience behind truck, screen angled up or straight back?
-- **Weather protection** for projector mounted in/on truck bed
+- ✅ **Projector models identified**: Hisense PX3-PRO ($3,200), BenQ X500i, Optoma UHZ35ST
+- ✅ **8ft throw distance confirmed** for truck bed mounting
+- 🔄 **Screen integration with tailgate** - manual vs motorized mechanism design needed
+- 🔄 **Weather protection** - NEMA 4X enclosure required for projector
 
 **Audio system:**
-- **Sound ordinance limits** at Burning Man?
-- **Power requirements** for "epic sound"?
-- **Speaker weatherproofing** and dust protection?
-- **Audio mixing capabilities** - DJ booth location?
+- ✅ **BM sound policy**: <75 dB at camp border, generators must be baffled
+- ✅ **Power requirements calculated**: 2,400W speakers + subwoofers peak 
+- ✅ **Professional equipment specified**: JBL EON715 speakers ($600 each)
+- ✅ **Weatherproofing standard**: All components must be NEMA 4X rated
 
-**Power system (Peak Load Management):**
-- **Peak vs base load analysis** - audio spikes vs steady LED/projection power
-- **Battery capacity** for handling audio peaks + base load duration
-- **Generator sizing** - steady charging rate vs peak power requirements
-- **Solar integration** - camp-based charging capacity and logistics
-- **Power consumption breakdown**:
-  - Audio system peak loads (amplifiers during bass drops, etc.)
-  - LED lighting constant draw
-  - Projector steady power
-  - Control systems and charging
-- **Runtime requirements** (hours per day) and charging cycles
-- **Noise restrictions** for generator use at different times
+**Power system:**
+- ✅ **Detailed power budget completed**: 3600W peak, 13,890 Wh nightly consumption
+- ✅ **Battery capacity determined**: 17.4 kWh LiFePO4 with 25% margin
+- ✅ **Generator sizing**: Honda EU7000iS (4.5kW) for 4-hour recharge cycles
+- ✅ **Hybrid architecture validated**: Silent nighttime operation critical for BM compliance
+- 🔄 **Solar integration logistics** - camp setup and transport planning needed
 
 **LED lighting system:**
-- **LED tube specifications** (pixel density, weatherproofing)?
-- **Control system** - VJ software, hardware interface?
-- **Power consumption** for full LED array?
-- **Mounting system** for LED tubes on frame?
+- ✅ **LED specifications**: WS2812B addressable strips, $15/meter installed cost  
+- ✅ **Control system**: VJ software (Resolume ~$1,200), addressable controllers
+- ✅ **Power consumption**: 440W average for 100ft of LED strips
+- 🔄 **Mounting system design** - integration with steel frame structure
 
-### Construction & Engineering (HIGH PRIORITY)
-**Critical Weight & Balance Constraints (DRIVE-WHILE-DEPLOYED):**
-- **Rear axle weight limits** - structure + people must not exceed truck's rear axle rating
-- **Center of gravity calculations** - cantilever load affects truck stability while driving
-- **No external supports allowed** - everything supported by truck frame only
-- **Dynamic loads while moving** - structure must handle driving forces + people on stage
-- **Suspension limitations** - truck suspension must handle cantilever moment while driving
+### Construction & Engineering ✅ CRITICAL INSIGHTS FROM RESEARCH
+**Professional Engineering Recommendations:**
+- ✅ **Weathering Steel (Cor-Ten)** recommended for desert environment - self-protecting patina, no paint needed
+- ✅ **Hybrid welded/bolted approach**: Permanent steel plates welded to chassis, superstructure bolts to plates for modularity
+- ✅ **All fasteners must use Loctite** and mechanical locking (nylon insert nuts) - vibration will loosen everything
+- ✅ **NEMA 4X enclosures mandatory** for all electronics - playa dust is uniquely destructive
+- ⚠️ **GVWR limits are non-negotiable** - exceeding causes repeated drivetrain failures
 
-**Frame design:**
-- **Pure cantilever engineering** - NO ground support legs allowed
-- **Truck frame integration** - must distribute loads properly to chassis
-- **Drive-ready design** - structure must be permanently attached and road-safe
-- **Conservative load rating** - stage capacity severely limited by no-external-support rule
-- **Aerodynamics** - structure must not create dangerous wind loads while driving
+**Critical Failure Modes Identified by Research:**
+- 🚨 **9-foot cantilevers documented as failing** on similar art cars - our design must be much more conservative
+- 🚨 **Dynamic amplification** from playa vibration causes static calculations to underestimate loads  
+- 🚨 **Overloaded vehicles repeatedly break down** - transmissions and cooling systems most vulnerable
 
-**Truck Bed Modifications:**
-- **Tailgate integration** with projection screen mechanism
-- **Bed reinforcement** for cantilever load anchor points
-- **Access panels** for equipment storage under stage
+**Frame Design Requirements:**
+- **Pure cantilever engineering** with NO ground support legs allowed
+- **Modular superstructure** - core rigid structure + attachable art elements
+- **Professional welding required** - mounting plates welded to main frame rails
+- **Conservative load rating** - research shows failures happen when pushing limits
+- **Wind load planning** - anemometer required, retraction protocols for >40 mph winds
 
-**Materials research:**
-- **Steel grade and thickness** for cantilever beam design
-- **Fastener specifications** for truck frame attachment points  
-- **Paint/coating** for rust prevention?
-- **Cable management** for power and data?
+**Material Specifications:**
+- ✅ **Weathering steel**: $350/ton + $121-1030/ton fabrication
+- ✅ **Mobile welding**: $22-30/hr Nevada County rates  
+- ✅ **Structural engineering consultation**: $100-200/hr for load calculations
+- 🔄 **Frame attachment engineering** - specific mounting plate design needed
 
 ### Safety & Risk Assessment (CRITICAL)
 **Structural Safety (DRIVE-WHILE-DEPLOYED):**
@@ -358,16 +391,18 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - **First aid station** location and access
 - **Electrical safety** in dusty environment near truck engine/fuel
 
-### Budget & Financial Planning (HIGH PRIORITY)
-**Detailed cost breakdown needed:**
-- ✅ Vehicle: $50-85k (researched)
-- ❓ AV equipment: projector ($2-10k?), sound system ($5-15k?)
-- ❓ Power system: batteries ($3-8k?), generator ($2-5k?), solar panels + camp setup ($2-5k?)
-- ❓ LED lighting system ($3-10k?)
-- ❓ Tools and equipment rental/purchase ($2-5k?)
-- ❓ Labor costs if hiring welders/fabricators?
-- ❓ Insurance and permits ($1-3k annually?)
-- ❓ **TOTAL PROJECT ESTIMATE NEEDED**
+### Budget & Financial Planning ✅ RESEARCH COMPLETE - MAJOR BUDGET INCREASE
+**Detailed cost breakdown from professional research:**
+- ✅ **Vehicle**: $50-85k (confirmed)
+- ✅ **Legal/Registration**: $1,120 (SPCNS fees, inspections, surety bond if needed)  
+- ✅ **AV Equipment**: $15,200 (Hisense projector $3,200 + JBL speakers $2,400 + subwoofers $1,600 + LED strips $1,500 + screen materials $350 + VJ software $1,199 + misc $4,951)
+- ✅ **Power System**: $10,000 (Honda EU7000iS $4,500 + 17.4kWh LiFePO4 $3,000 + NEMA 4X enclosures $800 + inverter/BMS $2,000)
+- ✅ **Construction**: $15,200 (Steel materials $2,200 + fabrication/welding $4,000 + fasteners $500 + Aluminet $200 + paint/finishing $1,000 + C-7 contractor $1,500 + engineering consultation $3,000 + tools $2,800)
+- ✅ **Insurance**: $10,000 annual (Agreed Value policy $3,000 + Event liability $7,000)
+- ✅ **Storage & Logistics**: $2,400 (12 months storage $1,200 + transport $1,200)
+
+**🚨 TOTAL PROJECT COST: $103,920 - $137,920** (major increase from initial $40k estimate)
+**🚨 ANNUAL OPERATING COSTS: $10,000+** (insurance alone)
 
 **Funding strategy:**
 - **Payment timeline** - when is money needed?
