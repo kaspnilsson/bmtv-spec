@@ -12,7 +12,7 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 **Base Vehicle:** F350 dually or similar
 
-**Timeline:** On playa by 2027
+**Timeline:** On playa by Burning Man 2027
 
 **Critical Engineering Constraints:** 
 - The stage area is a cantilever structure extending forward from the rear axle, creating significant tipping moment
@@ -165,6 +165,71 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 - Art cars are cooler if they're interactive. Maybe we could build a big remote that changes channels or something?
 - Other ideas welcome 
+
+## Project Timeline: Critical Milestones (2025-2027)
+
+### Milestone 1: Team & Research Foundation (Q1 2025)
+**Critical Success Factors:**
+- Core team recruited with essential skills (welder, electrician, project manager)
+- Legal/regulatory research completed - know what's legally required
+- Budget finalized and funding committed 
+- Workshop access secured
+
+**Go/No-Go Decision Point:** Can we realistically execute this project?
+
+### Milestone 2: Vehicle Acquired & Design Locked (Q2 2025)  
+**Critical Success Factors:**
+- Base truck purchased and inspected
+- Structural engineering design completed and validated
+- All permits/insurance in place for modifications
+
+**Go/No-Go Decision Point:** Are we confident in the engineering approach?
+
+### Milestone 3: Structure Complete (Q3 2025)
+**Critical Success Factors:**  
+- Primary cantilever frame built and truck-integrated
+- Basic weight/stability testing passed
+- Core safety systems installed
+
+**Go/No-Go Decision Point:** Is the fundamental structure sound?
+
+### Milestone 4: Systems Integrated (Q4 2025)
+**Critical Success Factors:**
+- Audio, power, LED, and screen systems all functional
+- Drive-while-deployed capability demonstrated
+- Safety systems operational
+
+**Go/No-Go Decision Point:** Do all core systems work together?
+
+### Milestone 5: Operational Validation (Q1 2026)
+**Critical Success Factors:**
+- Full systems testing (static and dynamic) passed  
+- Team trained on operation and emergency procedures
+- All major issues identified and resolved
+
+**Go/No-Go Decision Point:** Is this ready for extended operation?
+
+### Milestone 6: Desert Test Event (Q2 2027 - Fourth of Juplaya)
+**Critical Success Factors:**
+- Multi-day desert operation successful
+- All systems reliable under real conditions  
+- Team confident in event logistics
+
+**Final Go/No-Go Decision:** Are we ready for Burning Man?
+
+### Milestone 7: Burning Man 2027 (Q3 2027)
+**Success Metrics:**
+- Safe transport to and from playa
+- Reliable operation throughout event
+- Positive participant experience
+- No major safety incidents
+
+### Key Timeline Principles:
+- **Conservative scheduling** - each milestone has buffer time built in
+- **Clear decision points** - formal go/no-go evaluations prevent sunk cost fallacy
+- **Early risk mitigation** - hardest problems tackled first (structure, legal compliance)
+- **Test event mandatory** - desert validation before main event
+- **Total duration:** 2.5 years with 6-month buffer before Burning Man
 
 ## Research Completed
 
