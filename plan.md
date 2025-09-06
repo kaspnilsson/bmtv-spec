@@ -22,10 +22,26 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 
 ## Core Philosophy
 
+### Technical Requirements
 - Car must be capable of driving itself to the playa
 - Car should have at least mid-tier art car audio
 - Car should be built to work with or withstand the elements on the playa (waterproofing and dust proofing, wind resistance / usage of porous materials to counteract wind)
 - Make use of collapsible bits, custom fabrication wherever possible
+
+### Project Philosophy: Keep It Achievable
+- **Minimal viable product approach** - build something awesome but achievable
+- **Fun over perfection** - prioritize getting to playa over gold-plating features
+- **Don't bite off more than we can chew** - realistic scope for team skills and timeline
+- **Descope ambitious features** - many cool ideas exist but may be too complex for v1
+- **Iterate and improve** - build solid foundation, add features in future years
+- **Team sustainability** - project should be enjoyable, not overwhelming
+- **Budget consciousness** - keep costs reasonable to maintain team buy-in
+
+### Scope Management Principles
+- **Core functionality first**: TV screen, sound, basic LED lighting, safe stage
+- **Nice-to-haves second**: Advanced VJ controls, complex interactivity, elaborate mechanisms
+- **Complex engineering last**: Only if team has expertise and timeline allows
+- **When in doubt, simplify**: Choose simpler solution over more impressive but risky option
 
 ## Alternatives Considered
 
@@ -47,7 +63,7 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 - Ground conditions on playa may not support outriggers
 - Storage of deployable components during transport
 
-**Decision:** **REJECTED** - Eliminated because core requirement is to drive while fully deployed in performance mode. The mobility and spontaneous movement capability is essential to the art car concept.
+**Decision:** **REJECTED** - Eliminated because core requirement is to drive while fully deployed in performance mode. The mobility and spontaneous movement capability is essential to the art car concept. Also aligns with "keep it simple" philosophy - fewer moving parts and mechanisms.
 
 ### Fixed vs Collapsible TV Structure
 **Decision:** **TBD** - Need to research if permanent structure meets road legal requirements vs collapsible structure that deploys for events.
@@ -125,7 +141,7 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 **Concept:** Stairs or ramps that deploy when stopped, retract when driving
 **Pros:** No driving clearance issues, can be optimized for access, lighter when driving
 **Cons:** Violates "drive while deployed" requirement, complexity, setup time
-**Decision:** **REJECTED** - Violates core mobility requirement
+**Decision:** **REJECTED** - Violates core mobility requirement and adds complexity counter to "keep it simple" philosophy
 
 #### Rear Access from Truck Bed
 **Concept:** People access stage by climbing up through truck bed area, behind screen
@@ -178,6 +194,8 @@ Tube TV art car where the truck bed becomes the TV screen and the truck cab is i
 **Estimated total construction materials**: $15,000 - $35,000 (rough estimate)
 
 ## Critical Questions & Research Needed
+
+*Note: Research priorities reflect "minimal viable product" philosophy - focus on core safety/legal requirements first, nice-to-have features later.*
 
 ### Legal & Regulatory Requirements (HIGH PRIORITY)
 - **DOT regulations for art car modifications?**
